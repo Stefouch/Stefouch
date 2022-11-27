@@ -1,6 +1,6 @@
 ## Hey! **Stefouch** here!
 
-I'm a biological researcher and hobbyist programmer who loves playing boardgames and roleplaying games.
+I'm a former biological researcher and hobbyist programmer who loves playing boardgames and roleplaying games.
 
 I'm writing and developing content for the *Year Zero Engine* roleplaying games and for *Magic: The Gathering*.
 
@@ -20,7 +20,7 @@ const Stefouch = new Human(hobbies);
 <br/>
 <p align="center">
   <a href="https://stefouch.be" target="_blank">
-    <img src="https://github.com/Stefouch/t2k4e/raw/master/assets/stefouch-banner.png" alt="Stefouch Gaming Lab" style="width: auto; height: auto; max-height: 100px;"/>
+    <img src="https://github.com/fvtt-fria-ligan/blade-runner-foundry-vtt/raw/main/static/assets/logos/BSL-D6_bannerlogo_H150.png" alt="Stefouch Gaming Lab" style="width: auto; height: auto; max-height: 100px;"/>
   </a>
   <br/>
   <span><i>Built by a fan, For the fans.</i></span>
